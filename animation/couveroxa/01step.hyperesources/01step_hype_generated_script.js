@@ -1,0 +1,31 @@
+//	HYPE.documents["01step"]
+
+(function(){(function k(){function l(a,b,d){var c=!1;null==window[a]&&(null==window[b]?(window[b]=[],window[b].push(k),a=document.getElementsByTagName("head")[0],b=document.createElement("script"),c=h,false==!0&&(c=""),b.type="text/javascript",b.src=c+"/"+d,a.appendChild(b)):window[b].push(k),c=!0);return c}var h="01step.hyperesources",c="01step",e="01step_hype_container";if(false==!1)try{for(var f=document.getElementsByTagName("script"),
+a=0;a<f.length;a++){var b=f[a].src;if(null!=b&&-1!=b.indexOf("01step_hype_generated_script.js")){h=b.substr(0,b.lastIndexOf("/"));break}}}catch(n){}if(false==!1&&(a=navigator.userAgent.match(/MSIE (\d+\.\d+)/),a=parseFloat(a&&a[1])||null,a=l("HYPE_552","HYPE_dtl_552",!0==(null!=a&&10>a||false==!0)?"HYPE-552.full.min.js":"HYPE-552.thin.min.js"),false==!0&&(a=a||l("HYPE_w_552","HYPE_wdtl_552","HYPE-552.waypoints.min.js")),a))return;
+f=window.HYPE.documents;if(null!=f[c]){b=1;a=c;do c=""+a+"-"+b++;while(null!=f[c]);for(var d=document.getElementsByTagName("div"),b=!1,a=0;a<d.length;a++)if(d[a].id==e&&null==d[a].getAttribute("HYP_dn")){var b=1,g=e;do e=""+g+"-"+b++;while(null!=document.getElementById(e));d[a].id=e;b=!0;break}if(!1==b)return}b=[];b=[];d={};g={};for(a=0;a<b.length;a++)try{g[b[a].identifier]=b[a].name,d[b[a].name]=eval("(function(){return "+b[a].source+"})();")}catch(m){window.console&&window.console.log(m),
+d[b[a].name]=function(){}}a=new HYPE_552(c,e,{"3":{p:1,n:"Clipboard-2.svg",g:"20",t:"image/svg+xml"},"1":{p:1,n:"Clipboard-1.svg",g:"23",t:"image/svg+xml"},"4":{p:1,n:"Clipboard-3.svg",g:"33",t:"image/svg+xml"},"2":{p:1,n:"Clipboard.svg",g:"14",t:"image/svg+xml"},"0":{p:1,n:"periodic-table-1626299.svg",g:"6",t:"image/svg+xml"}},h,[],d,[{n:"Untitled Scene",o:"1",X:[0]}],[{o:"3",p:"600px",x:0,cA:false,Z:400,Y:600,c:"#FFFFFF",L:[],bY:1,d:600,U:{},T:{kTimelineDefaultIdentifier:{f:30,z:3.24,i:"kTimelineDefaultIdentifier",n:"Main Timeline",j:{"0":[[380,162,380,162,237,162,237,162]]},a:[{f:"c",y:0,z:1.01,i:"a",e:330,s:171,o:"44"},{f:"c",y:0,z:1.01,i:"b",e:112,s:112,o:"44"},{f:"c",y:0,z:1.18,i:"e",e:0,s:1,o:"43"},{f:"c",y:1.01,z:0.18,i:"f",e:95,s:0,o:"44"},{y:1.01,i:"b",s:112,z:0,o:"44",f:"c"},{y:1.01,i:"a",s:330,z:0,o:"44",f:"c"},{y:1.03,i:"e",s:0,z:0,o:"47",f:"c"},{y:1.18,i:"e",s:0,z:0,o:"43",f:"c"},{y:1.19,i:"f",s:95,z:0,o:"44",f:"c"},{f:"c",y:2.01,z:0.22,i:"e",e:0,s:1,o:"44"},{f:"c",y:2.01,z:0.22,i:"e",e:1,s:0,o:"48"},{o:"48",y:2.23,z:1.01,i:"a",e:187,a:"0",f:"c",s:330},{o:"48",y:2.23,z:1.01,i:"b",e:112,a:"0",f:"c",s:112},{f:"c",y:2.23,z:1.01,i:"f",e:0,s:95,o:"48"},{y:2.23,i:"e",s:0,z:0,o:"44",f:"c"},{y:2.23,i:"e",s:1,z:0,o:"48",f:"c"},{y:3.24,i:"a",s:187,z:0,o:"48",f:"c"},{y:3.24,i:"b",s:112,z:0,o:"48",f:"c"},{y:3.24,i:"f",s:0,z:0,o:"48",f:"c"}],b:[]}},bZ:180,O:["50","48","45","49","47","46","43","42","44","41","40","39"],v:{"42":{aV:8,w:"Couve-roxa",x:"visible",a:49,Z:"break-word",b:212,y:"preserve",j:"absolute",z:6,yy:"nowrap",s:"Helvetica,Arial,Sans-Serif",aT:8,k:"div",aS:8,t:16,r:"inline",aU:8,G:"#000000"},"47":{aU:8,bB:0,G:"#0096FF",aV:8,bC:0,r:"inline",e:0,s:"Helvetica,Arial,Sans-Serif",t:16,g:"#000000",Z:"break-word",v:"bold",w:"Ligar a chaleira",j:"absolute",x:"visible",yy:"nowrap",aZ:0,y:"preserve",k:"div",z:9,aS:8,aT:8,a:275,bA:"#000000",b:273},"43":{G:"#000000",aU:8,aV:8,r:"inline",cY:"0",e:1,s:"Helvetica,Arial,Sans-Serif",t:16,Z:"break-word",w:"\u00c1gua",j:"absolute",x:"visible",yy:"nowrap",k:"div",y:"preserve",z:7,aS:8,aT:8,a:193,b:212},"48":{h:"33",p:"no-repeat",x:"visible",tY:0.5,a:330,q:"100% 100%",j:"absolute",b:112,z:12,k:"div",c:100,d:100,r:"inline",e:0,f:95,tX:0.5},"50":{b:360,z:13,K:"Solid",c:131,L:"Solid",d:15,aS:6,M:1,bD:"none",N:1,aT:6,O:1,g:"#F0F0F0",aU:6,P:1,aV:6,j:"absolute",aI:4,k:"div",aJ:4,aK:4,aL:4,A:"#A0A0A0",B:"#A0A0A0",Z:"break-word",r:"inline",C:"#A0A0A0",D:"#A0A0A0",t:13,aA:{a:[{b:"kTimelineDefaultIdentifier",p:3,z:false,symbolOid:"2"}]},F:"center",G:"#000000",aP:"pointer",w:"Mostrar novamente<br>",x:"visible",I:"Solid",a:11,y:"preserve",J:"Solid"},"44":{w:"",h:"20",p:"no-repeat",x:"visible",tY:0.5,q:"100% 100%",a:171,b:112,j:"absolute",z:5,k:"div",c:100,d:100,r:"inline",e:1,f:0,tX:0.5},"49":{aU:8,bB:0,G:"#0096FF",aV:8,bC:0,r:"inline",e:0,s:"Helvetica,Arial,Sans-Serif",t:16,g:"#000000",Z:"break-word",v:"bold",w:"Aguardar alguns segundos",j:"absolute",x:"visible",yy:"nowrap",aZ:0,y:"preserve",k:"div",z:10,aS:8,aT:8,a:188,bA:"#000000",b:273},"40":{p:"no-repeat",c:184,q:"100% 100%",d:110,I:"Solid",r:"inline",J:"Solid",K:"Solid",L:"Solid",h:"6",M:2,N:2,j:"absolute",x:"visible",O:2,k:"div",P:2,z:2,a:369,b:24},"39":{c:598,d:236,I:"Solid",J:"Solid",K:"Solid",g:"#C9CBCD",L:"Solid",M:1,N:1,A:"#D8DDE4",x:"visible",j:"absolute",B:"#D8DDE4",P:1,k:"div",C:"#D8DDE4",z:1,O:1,D:"#D8DDE4",a:0,b:162},"45":{h:"23",p:"no-repeat",x:"visible",a:404,q:"100% 100%",b:177,j:"absolute",r:"inline",c:137,k:"div",z:11,d:137},"41":{h:"14",p:"no-repeat",x:"visible",a:49,q:"100% 100%",b:112,j:"absolute",r:"inline",c:100,k:"div",z:3,d:100},"46":{aV:8,w:"Chaleira",x:"visible",a:434,Z:"break-word",b:314,y:"preserve",j:"absolute",z:8,yy:"nowrap",s:"Helvetica,Arial,Sans-Serif",aT:8,k:"div",aS:8,t:16,r:"inline",aU:8,G:"#000000"}}}],{},g,{},
+(function (shouldShow, mainContentContainer) {
+	var loadingPageID = mainContentContainer.id + "_loading";
+	var loadingDiv = document.getElementById(loadingPageID);
+
+	if(shouldShow == true) {
+		if(loadingDiv == null) {	
+			loadingDiv = document.createElement("div");
+			loadingDiv.id = loadingPageID;
+			loadingDiv.style.cssText = "overflow:hidden;position:absolute;width:150px;top:40%;left:0;right:0;margin:auto;padding:2px;border:3px solid #BBB;background-color:#EEE;border-radius:10px;text-align:center;font-family:Helvetica,Sans-Serif;font-size:13px;font-weight:700;color:#AAA;z-index:100000;";
+			loadingDiv.innerHTML = "Loading";
+			mainContentContainer.appendChild(loadingDiv);
+		}
+ 
+		loadingDiv.style.display = "block";
+		loadingDiv.setAttribute("aria-hidden", false);
+		mainContentContainer.setAttribute("aria-busy", true);
+	} else {
+		loadingDiv.style.display = "none";
+		loadingDiv.setAttribute("aria-hidden", true);
+		mainContentContainer.removeAttribute("aria-busy");
+	}
+})
+
+,false,true,-1,true,true,false,true);f[c]=a.API;document.getElementById(e).setAttribute("HYP_dn",
+c);a.z_o(this.body)})();})();
